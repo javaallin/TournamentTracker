@@ -9,7 +9,7 @@ namespace TrackerLibrary.Models
     public class MatchupEntryModel
     {
         /// <summary>
-        /// ID 123
+        /// ID 1234
         /// </summary>
         public int Id { get; set; }
         /// <summary>
