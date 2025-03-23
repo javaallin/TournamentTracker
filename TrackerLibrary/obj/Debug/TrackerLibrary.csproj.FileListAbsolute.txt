@@ -1,0 +1,15 @@
+C:\Users\JIHUN\Code\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+C:\Users\JIHUN\Code\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+C:\Users\JIHUN\Code\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.AssemblyReference.cache
+C:\Users\JIHUN\Code\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\JIHUN\Code\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+C:\Users\JIHUN\Code\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+C:\Users\JIHUN\Code\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.dll
+C:\Users\JIHUN\Code\TournamentTracker\TrackerLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JIHUN\Code\TournamentTracker\TrackerLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JIHUN\Code\TournamentTracker\TrackerLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JIHUN\Code\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.xml
+C:\Users\JIHUN\Code\TournamentTracker\TrackerLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JIHUN\Code\TournamentTracker\TrackerLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JIHUN\Code\TournamentTracker\TrackerLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JIHUN\Code\TournamentTracker\TrackerLibrary\obj\Debug\TrackerL.D25FE930.Up2Date
