@@ -9,6 +9,9 @@ namespace TrackerLibrary.Models
 {
     public class MatchupModel
     {
+        /// <summary>
+        /// branch Test
+        /// </summary>
         public int Id { get; set; } 
         public List<MatchupEntryModel> Entries { get; set; } = new List<MatchupEntryModel>();
         
